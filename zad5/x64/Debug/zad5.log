@@ -1,0 +1,7 @@
+﻿  FileName.c
+C:\Users\zvoni\Desktop\strukture25podataka\zad5\FileName.c(31,7): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[256]'
+C:\Users\zvoni\Desktop\strukture25podataka\zad5\FileName.c(31,7): warning C4024: 'Read': different types for formal and actual parameter 1
+C:\Users\zvoni\Desktop\strukture25podataka\zad5\FileName.c(32,11): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\zvoni\Desktop\strukture25podataka\zad5\FileName.c(45,11): warning C4098: 'Read': 'void' function returning a value
+C:\Users\zvoni\Desktop\strukture25podataka\zad5\FileName.c(40,13): warning C4101: 'n': unreferenced local variable
+  zad5.vcxproj -> C:\Users\zvoni\Desktop\strukture25podataka\zad5\x64\Debug\zad5.exe

@@ -1,0 +1,15 @@
+﻿  FileName.c
+C:\Users\zvoni\Desktop\strukture25podataka\vjezba 2 i 3\zad2i3\FileName.c(36,12): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\zvoni\Desktop\strukture25podataka\vjezba 2 i 3\zad2i3\FileName.c(51,20): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\zvoni\Desktop\strukture25podataka\vjezba 2 i 3\zad2i3\FileName.c(60,16): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\zvoni\Desktop\strukture25podataka\vjezba 2 i 3\zad2i3\FileName.c(60,16): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\zvoni\Desktop\strukture25podataka\vjezba 2 i 3\zad2i3\FileName.c(69,20): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\zvoni\Desktop\strukture25podataka\vjezba 2 i 3\zad2i3\FileName.c(77,20): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\zvoni\Desktop\strukture25podataka\vjezba 2 i 3\zad2i3\FileName.c(85,27): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\zvoni\Desktop\strukture25podataka\vjezba 2 i 3\zad2i3\FileName.c(96,20): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\zvoni\Desktop\strukture25podataka\vjezba 2 i 3\zad2i3\FileName.c(105,20): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\zvoni\Desktop\strukture25podataka\vjezba 2 i 3\zad2i3\FileName.c(179,16): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\zvoni\Desktop\strukture25podataka\vjezba 2 i 3\zad2i3\FileName.c(191,16): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\zvoni\Desktop\strukture25podataka\vjezba 2 i 3\zad2i3\FileName.c(202,16): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\zvoni\Desktop\strukture25podataka\vjezba 2 i 3\zad2i3\FileName.c(202,16): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+  zad2i3.vcxproj -> C:\Users\zvoni\Desktop\strukture25podataka\vjezba 2 i 3\zad2i3\x64\Debug\zad2i3.exe
